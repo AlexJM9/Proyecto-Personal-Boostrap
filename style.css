@@ -47,16 +47,18 @@
 #carousel {
     max-height: 80vh;
     object-fit: cover;
-    filter: sepia(30%);
+    filter: sepia(50%);
     max-width: 100%;
     position: relative;
 }
 
 #evento-marca {
-    background-color: #003566;
+    background-color: #000000;
     color: #FFD60A;
 }
 
 #evento-marca img {
+    background-color: #FFD60A;
+    color: #000000;
     max-width: 100%;
 }
